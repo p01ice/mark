@@ -6,7 +6,7 @@
   <link href="/mark/atom.xml" rel="self"/>
   
   <link href="https://p01ice.github.io/mark/"/>
-  <updated>2017-10-12T18:21:02.740Z</updated>
+  <updated>2017-10-13T01:38:19.683Z</updated>
   <id>https://p01ice.github.io/mark/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>信息收集Demo</title>
+    <link href="https://p01ice.github.io/mark/2017/10/13/info/"/>
+    <id>https://p01ice.github.io/mark/2017/10/13/info/</id>
+    <published>2017-10-13T01:36:44.000Z</published>
+    <updated>2017-10-13T01:38:19.683Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h4 id=&quot;根据证书收集信息&quot;&gt;&lt;a href=&quot;#根据证书收集信息&quot; class=&quot;headerlink&quot; title=&quot;根据证书收集信息&quot;&gt;&lt;/a&gt;根据证书收集信息&lt;/h4&gt;&lt;p&gt;&lt;a href=&quot;https://crt.sh/&quot; title=&quot;crt.sh&quot; targe
+      
+    
+    </summary>
+    
+      <category term="渗透测试" scheme="https://p01ice.github.io/mark/categories/%E6%B8%97%E9%80%8F%E6%B5%8B%E8%AF%95/"/>
+    
+    
+      <category term="信息收集" scheme="https://p01ice.github.io/mark/source/tags/%E4%BF%A1%E6%81%AF%E6%94%B6%E9%9B%86/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
