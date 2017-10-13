@@ -6,7 +6,7 @@
   <link href="/mark/atom.xml" rel="self"/>
   
   <link href="https://p01ice.github.io/mark/"/>
-  <updated>2017-10-12T22:46:25.854Z</updated>
+  <updated>2017-10-12T18:21:02.740Z</updated>
   <id>https://p01ice.github.io/mark/</id>
   
   <author>
@@ -15,29 +15,6 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
-  
-  <entry>
-    <title>test</title>
-    <link href="https://p01ice.github.io/mark/2017/10/13/test/"/>
-    <id>https://p01ice.github.io/mark/2017/10/13/test/</id>
-    <published>2017-10-12T21:02:45.000Z</published>
-    <updated>2017-10-12T22:46:25.854Z</updated>
-    
-    <summary type="html">
-    
-      
-      
-        &lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new-post&quot; class=&quot;headerlink&quot; title=&quot;Create a new post&quot;&gt;&lt;/a&gt;Create a new post&lt;/h3&gt;&lt;figure class
-      
-    
-    </summary>
-    
-      <category term="python" scheme="https://p01ice.github.io/mark/categories/python/"/>
-    
-    
-      <category term="查找" scheme="https://p01ice.github.io/mark/source/tags/%E6%9F%A5%E6%89%BE/"/>
-    
-  </entry>
   
   <entry>
     <title>Hello World</title>
