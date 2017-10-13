@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="/atom.xml" rel="self"/>
+  <link href="/mark/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://p01ice.github.io/mark/"/>
   <updated>2017-10-12T22:46:25.854Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://p01ice.github.io/mark/</id>
   
   <author>
     <name>John Doe</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>test</title>
-    <link href="http://yoursite.com/2017/10/13/test/"/>
-    <id>http://yoursite.com/2017/10/13/test/</id>
+    <link href="https://p01ice.github.io/mark/2017/10/13/test/"/>
+    <id>https://p01ice.github.io/mark/2017/10/13/test/</id>
     <published>2017-10-12T21:02:45.000Z</published>
     <updated>2017-10-12T22:46:25.854Z</updated>
     
@@ -32,17 +32,17 @@
     
     </summary>
     
-      <category term="python" scheme="http://yoursite.com/categories/python/"/>
+      <category term="python" scheme="https://p01ice.github.io/mark/categories/python/"/>
     
     
-      <category term="查找" scheme="http://yoursite.com/source/tags/%E6%9F%A5%E6%89%BE/"/>
+      <category term="查找" scheme="https://p01ice.github.io/mark/source/tags/%E6%9F%A5%E6%89%BE/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2017/10/13/hello-world/"/>
-    <id>http://yoursite.com/2017/10/13/hello-world/</id>
+    <link href="https://p01ice.github.io/mark/2017/10/13/hello-world/"/>
+    <id>https://p01ice.github.io/mark/2017/10/13/hello-world/</id>
     <published>2017-10-12T18:21:02.740Z</published>
     <updated>2017-10-12T18:21:02.740Z</updated>
     
